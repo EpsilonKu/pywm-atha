@@ -86,7 +86,7 @@
             seatd
 
             libpng
-            ffmpeg
+            ffmpeg_4
             libcap
 
             xorg.xcbutilwm
@@ -142,7 +142,7 @@
             mesa
 
             libpng
-            ffmpeg
+            ffmpeg_4
             libcap
             python-with-my-packages 
 
